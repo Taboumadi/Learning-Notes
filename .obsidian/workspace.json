@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "12024c27bab24a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/General Java Overview/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Java/General Java Overview/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -127,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Java/General Java Overview/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -154,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Java/General Java Overview/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -178,12 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25c7621cb511aacb",
+  "active": "12024c27bab24a64",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "New folder",
+    "README.md",
+    "Java/General Java Overview/Untitled.md",
     "Java/General Java Overview",
     "Java",
     "Test Note.md",
-    "README.md",
     "LICENSE.md"
   ]
 }
