@@ -1,4 +1,5 @@
-![[Pasted image 20241026091339.png]]
+![](https://i.imgur.com/YXitvkJ.png)
+
 - [ ] **Introduction**
   - [ ] The OCA Exam
   - [ ] Scheduling the Exam
