@@ -1,18 +1,17 @@
 ![](https://i.imgur.com/YXitvkJ.png)
-
-- [ ] **Introduction**
-  - [ ] The OCA Exam
-  - [ ] Scheduling the Exam
-  - [ ] The Day of the Exam
-  - [ ] Finding Out Your Score
-  - [ ] Exam Questions
-  - [ ] Getting Started
-  - [ ] Getting Help
-  - [ ] Who Should Buy This Book
-  - [ ] How This Book Is Organized
-  - [ ] Free Online Learning Environment
-  - [ ] Conventions Used in This Book
-  - [ ] OCA Exam Objectives
+- [x] **Introduction**
+  - [x] The OCA Exam
+  - [x] Scheduling the Exam
+  - [x] The Day of the Exam
+  - [x] Finding Out Your Score
+  - [x] Exam Questions
+  - [x] Getting Started
+  - [x] Getting Help
+  - [x] Who Should Buy This Book
+  - [x] How This Book Is Organized
+  - [x] Free Online Learning Environment
+  - [x] Conventions Used in This Book
+  - [x] OCA Exam Objectives
 
 - [ ] **Assessment Test**
 - [ ] **Answers to Assessment Test**
